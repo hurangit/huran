@@ -1,0 +1,19 @@
+{
+  "name": "huran",
+  "version": "1.0.1",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurangit/hexo-fonts.git"
+  },
+  "author": "huran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurangit/hexo-fonts/issues"
+  },
+  "homepage": "https://github.com/hurangit/hexo-fonts#readme"
+}
