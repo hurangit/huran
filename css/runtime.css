@@ -1,7 +1,7 @@
 /*电子钟字体*/
 @font-face {
   font-family: 'UnidreamLED';
-  src: url("https://cdn.jsdelivr.net/npm/huran/fonts/UnidreamLED.ttf");
+  src: url("https://unpkg.zhimg.com/huran/fonts/UnidreamLED.ttf");
   font-display: swap;
 }
 div#runtime {
